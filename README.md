@@ -8,8 +8,6 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Hysk14" width="22px" src="https://link.com/" />][varName]
-
 [LinkedIn]: [https://www.link.com/](https://www.linkedin.com/in/hyson-kaio)
 
 <!--
