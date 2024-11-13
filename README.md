@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Javascript</b>
-  - [Hawaii State Website](https://github.com/Hysk14/projectLink)
+  - [Hawaii State Website](https://github.com/Hysk14/HawaiiStateWebsite)
 
 
 <h2> 🤳 Connect with me:</h2>
