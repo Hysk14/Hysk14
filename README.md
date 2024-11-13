@@ -10,7 +10,7 @@
 
 [<img align="left" alt="Hysk14" width="22px" src="https://link.com/" />][varName]
 
-[varName]: https://www.link.com/
+[LinkedIn]: [https://www.link.com/](https://www.linkedin.com/in/hyson-kaio)
 
 <!--
 **Hysk14/Hysk14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
