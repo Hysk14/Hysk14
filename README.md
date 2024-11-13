@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Enter Project Name Here](https://github.com/Hysk14/projectLink)
+- <b>Javascript</b>
+  - [Hawaii State Website](https://github.com/Hysk14/projectLink)
 
 
 <h2> 🤳 Connect with me:</h2>
